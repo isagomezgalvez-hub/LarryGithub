@@ -3,6 +3,7 @@
 Esta saga de libros cuentan la historia de un hacker excepcional
 
 
-**Isa Gómez**, Git fan.
+<<<<<<< HEAD
+**Isa Gómez**, Git fan & Larry Ploter fan.
 hello@isagome.com
 
